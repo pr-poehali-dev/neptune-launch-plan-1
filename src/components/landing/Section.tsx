@@ -43,7 +43,7 @@ export default function Section({ id, title, subtitle, content, isActive, showBu
           <Button
             variant="outline"
             size="lg"
-            className="text-[#FF4D00] bg-transparent border-[#FF4D00] hover:bg-[#FF4D00] hover:text-black transition-colors"
+            className="text-[#f472b6] bg-transparent border-[#f472b6] hover:bg-[#f472b6] hover:text-white transition-colors"
             onClick={() => window.open('https://vk.ru/club237773002', '_blank')}
           >
             {buttonText}
