@@ -45,7 +45,7 @@ export default function LandingPage() {
     <Layout>
       <div className="fixed top-0 left-0 right-0 z-30 flex items-center gap-3 p-5 md:p-6">
         <img
-          src="https://cdn.poehali.dev/projects/9279a1b0-4515-40d5-815f-358dc7231744/files/54d25ab8-bc95-451b-bd96-eb425a291ff3.jpg"
+          src="https://cdn.poehali.dev/projects/9279a1b0-4515-40d5-815f-358dc7231744/files/68ee0485-bd93-4234-a41e-a52539ace26c.jpg"
           alt="Логотип"
           className="w-10 h-10 rounded-full object-cover border border-white/20"
         />
